@@ -1,3 +1,6 @@
+## O que o JavaScript é capaz de fazer? - Curso JavaScript #01
+
+
 A primeira aula começa com uma explicação sore o que é o javascript e o que ele faz. Nessa aula, ele utiliza o exemplo do Devtools do google chrome para fazermos experiências com diversos tipos de sites desabilitando o javascript (três pontinhos, configurações, desabilitar javascript). Ao atulizar a página, conseguimos observar como o javascript age dentro dela, notando as diferenças visais. Ele utiliza o  youtube como exemplo principal e como prmeiro exercicio para demonstrar que fica inviável o utilizar sem a linguagem. Logo após, ele parte para o segundo exerciico também utilizando o devtools, onde ele pede para irmos em console e digitar alguns comandos simples de javascript, alterando propriedades da página do googgle como por exemplo a cor do fundo, as cores da escrita "Google", entre outras e deixa claro que apesar de estar mudando visualmente para mim, não muda diretamente para outras pessoas.
 
 A última demonstração que ele faz é no site do G1, onde ele mostra como alterar manchetes e textos 

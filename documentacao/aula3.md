@@ -1,3 +1,6 @@
+## Dando os primeiros passos - Curso JavaScript #03
+
+
 Nesta aula, ele cita que para aprender a programar, ver vídeos não é o suficiente, devemos praticar e persistir, vendo vídeos, anotando, lendo, fazendo exercícios...
 Ele indica o develope.mozilla.org, um lugar de referencias e guias (para html, css, javascript na visão da mozilla), mas tembém é possivel ver a referencia dos ecma através da ecma-internacional.org.
 
