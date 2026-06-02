@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        background-color: #92b2f2;
+        color: white;
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        width: 200px;
+        height: 200px;
+        line-height: 200px;
+        text-align: center;
+    }
+</style>
+<body>
+    <div id = area onClick= "clicar()"> Interaja... </div>
+
+
+    <script>
+        function clicar() {
+            var d = window.document.getElementById('area')
+            a. addEventListener('click', clicar)
+            a.addEventListener('mouseover', entrar)
+            a.addEventListener('mouseout', sair)
+
+            function entrar() {
+                a.innerText = 'Entrou'
+                a.style.background = 'green'
+            }
+            function sair() {
+                a.innerText = 'Saiu'
+                a.style.background = 'red'
+            }
+        
+            funcion clicar (){
+                a.innerText = 'Clicou'
+                a.style.background = 'blue'
+            }
+        }
+</body>
+</html>

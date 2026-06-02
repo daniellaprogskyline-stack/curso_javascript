@@ -1,11 +1,6 @@
-Aula 10
-Nesta aula, ele revisou o DOM (Document Object Model), que é a estrutura que permite ao JavaScript acessar e modificar os elementos de uma página HTML. Ele relembrou que cada página possui sua própria árvore DOM, formada por elementos pais (parent) e filhos (child), e também revisou as principais formas de selecionar elementos:
+## Eventos DOM - Curso JavaScript #10
 
-getElementsByTagName()
-getElementById()
-getElementsByName()
-getElementsByClassName()
-querySelector()
+Nesta aula, ele revisou o DOM (Document Object Model), que é a estrutura que permite ao JavaScript acessar e modificar os elementos de uma página HTML. Ele relembrou que cada página possui sua própria árvore DOM, formada por elementos pais (parent) e filhos (child).
 
 Depois da revisão, ele começu a ensinar sobre eventos DOM. Eventos são ações que acontecem em um elemento da página, como clicar, mover o mouse ou passar o cursor sobre ele.
 
@@ -17,6 +12,8 @@ mouseup - quando o botão é solto.
 mouseout - quando o mouse sai do elemento.
 
 Para tratar esses eventos, o professor explicou o conceito de funções. Uma função é um bloco de código que só será executado quando for chamado.
+
+Para achar novos eventos, vá em Event reference, lá é possivel encontrar todos os tipos possiveis de eventos em javascript, inclusive eventos para mecanicas touch e etc.
 
 function clicar() {
     // código executado ao clicar
