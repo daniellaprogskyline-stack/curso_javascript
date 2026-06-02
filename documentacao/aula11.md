@@ -7,8 +7,10 @@ Nessa aula, vamos ver como representar esse fluxo no javascript.
 
 No caso do Losangulo, local onde se identifica uma nova condição (bifurcação), utilizamos da condição if/else. O primeiro bloco (if) é executado quando a primeira condição e prova verdadeira e a segunda (else) caso não seja.
 
-Existem dois tpos de condição:
+Existem dois tipos de condição:
 
 if (){} - nessa condição, temos apenas um caminho.
-if (){} else {} - Nessa condição, temos dois caminhos possiveis
+if (){} else {} - Nessa condição, temos dois caminhos possiveis.
+
+Ele continuou a aula dando exemplos através de exercícios práticos.
 
