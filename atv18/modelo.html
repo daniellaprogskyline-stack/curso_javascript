@@ -3,29 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modelo de exercício</title>
-    <link rel="stylesheet" href="../style.css">
+    <title>Contador</title>
+    <link rel="stylesheet" href="style3.css">
     
 </head>
 <body>
 
     <header>
-        <h1>Título</h1>
+        <h1>Vamos contar</h1>
     </header>
     <section></section>
-    <div>
-        <p> Olá, mundo! </p>
+    <div id="dados">
+ <p>Início:<input type="number" name = "inicio" id="txti"> </p> 
+        <p>Fim: <input type="number" name = "inicio" id="txtf"></p> 
+        <p>Passo:<input type="number" name = "inicio" id="txtp"></p>  
 
     </div>    
-  <div>
-        <p> testando... </p>
-
+  <div id = "res">
+       
+        <p>Preparando a contagem...</p>
+        <input type ="button" value="Contar" onclick="Contar()">
+    
     </div>    
 
     <footer>
         <p>&copy; CursoemVídeo - Todos os direitos reservados.</p>
     </footer>
 
-    <script src="../script.js"></script>
+    <script src="script3.js"></script>
 </body>
 </html>
