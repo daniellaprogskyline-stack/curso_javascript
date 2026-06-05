@@ -1,6 +1,5 @@
 ## Variáveis e Tipos Primitivos - Curso JavaScript #05
 
-
 Nessa aula, ele ensina sobre variáveis e tipos primitivos utilizando o primeiro exercício como referência para pontuar observações, como deixar claro que mesmo com aqueles primeiros comandos feitos, os dados ainda não foram para lugar nenhum e que é importante sempre comentar os códigos para ficarem bem documentados. No javascript a forma de comentrar seria "//" única linha ou "/* */" mais de uma linha. Ele começa o exercício exemplificando como o fazer no código.
 Logo em seguida, ele utiliza de exemplos reais do cotidiano para introduzir a explicação do que são variáveis. O primeiro exemplo é sobre vagas de um estacionamento e os carros que vão ocupar essa vaga.
 Exemplos:

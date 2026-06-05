@@ -1,35 +1,6 @@
 ## Repetições (Parte 1) - Curso JavaScript #13
 
-Nessa aula ele apresenta o while, uma estrutura de repetição com teste lógico no início que serve para deixar o código mais curto e eficiente de acordo com a quantidade de vezes em que se espera repetir algo.
+Nesta aula, o professor inicia a primeira atividade prática do curso. O objetivo é desenvolver dois pequenos projetos para aplicar os conceitos aprendidos sobre condições e manipulação de elementos em páginas web.
 
-de início, ele exemplifica de uma forma mais simples utilizando fatias de pizza e uma function, como a seguir:
-
-function comerPizza(){
-    comerFatia()
-    comerFatia()
-    comerFatia()
-    comerFatia()
-    comerFatia()
-    comerFatia()
-}
-
-A parte de comerFatia sendo a responsável por criar a repetição. Porém, logo em seguida, ele nos dá op exemplo de outra forma de ser feito, gerando o mesmo efeito só que deixando o código mais simples e direto.
-
-function comerPizza(){
-    while(temFatia()){
-        comerFatia()
-    }
-}
-
-Isso cria um tipo de loop onde ele só vai parar quando a condição "temFatia" for falsa.
-
-Ele segue a aula fazendo o exercício 16.
-
-Depois disso, ele ensina mais um bloco de comando:
-
-do {
-
-} while(condição)
-
-Essa é uma estrutura de repetição com teste no final.
-Vamos utilizar cada uma delas de acordo com o que o código ou a lógica pede.
+O primeiro projeto consiste em um site capaz de alterar dinamicamente suas cores de acordo com o horário do dia. Dependendo da hora identificada pelo sistema, a página modifica elementos visuais como o plano de fundo e outros componentes, criando uma aparência diferente para manhã, tarde e noite.
+O segundo projeto tem como objetivo identificar a idade de uma pessoa a partir do ano de nascimento informado pelo usuário. Com base na idade calculada, o sistema exibe uma imagem correspondente à faixa etária identificada, diferenciando crianças, jovens, adultos e idosos.

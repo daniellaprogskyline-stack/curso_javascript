@@ -1,6 +1,5 @@
 ## Operadores (Parte1) - Curso JavaScript #07
 
-
 Nessa aula foi iniciada a parte de operadores em JavaScript. Ele explicou que existem várias famílias de operadores na linguagem, mas o foco ficou nos operadores aritméticos e nos operadores de atribuição. Os operadores aritméticos são usados para realizar cálculos matemáticos básicos, como soma (+), subtração (-), multiplicação (*), divisão (/), resto da divisão inteira (%) e potenciação (**), são conhecidos como binários, pois são sempre com 2: 2+5/4-5...
 
 Foi mostrado que o operador % não calcula porcentagem, mas sim o resto de uma divisão inteira. Já o operador ** é utilizado para calcular potências, como por exemplo 5².
