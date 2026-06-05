@@ -1,9 +1,8 @@
 ## Funções - Curso JavaScript #16
 
-
 Nesta aula, o professor aprofunda o conteúdo sobre funções em JavaScript, explicando que elas são um dos conceitos mais importantes da linguagem. Ele relembra que JavaScript segue o paradigma funcional e que, por isso, entender funções é essencial para criar programas mais organizados e reutilizáveis.
 
-Para facilitar o entendimento, ele utiliza uma comparação com uma tarefa do dia a dia: quando uma mãe pede para alguém ir à mercearia comprar leite. Nessa situação, existe uma chamada (o pedido), parâmetros (o dinheiro e o produto desejado), uma ação (todo o processo de ir até a mercearia e comprar o leite) e um retorno (a entrega do leite para a mãe). Segundo ele, uma função funciona de maneira muito parecida.
+Para facilitar o  entendimento, ele utiliza uma comparação com uma tarefa do dia a dia: quando uma mãe pede para alguém ir à mercearia comprar leite. Nessa situação, existe uma chamada (o pedido), parâmetros (o dinheiro e o produto desejado), uma ação (todo o processo de ir até a mercearia e comprar o leite) e um retorno (a entrega do leite para a mãe). Segundo ele, uma função funciona de maneira muito parecida.
 
 O professor explica que uma função pode possuir quatro elementos principais:
 
