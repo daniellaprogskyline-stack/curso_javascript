@@ -1,2 +1,1 @@
-## Exercícios JavaScript (Parte 2) - Curso JavaScript
-
+## Repetições (Parte 2) - Curso JavaScript #14

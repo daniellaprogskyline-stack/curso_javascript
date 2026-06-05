@@ -1,6 +1,4 @@
-## Exercícios JavaScript (Parte 1) - Curso JavaScript
-
-## Primeiros Exercícios Práticos - Curso JavaScript
+## Repetições (Parte 1) - Curso JavaScript #13
 
 Nesta aula, o professor inicia a primeira atividade prática do curso. O objetivo é desenvolver dois pequenos projetos para aplicar os conceitos aprendidos sobre condições e manipulação de elementos em páginas web.
 
