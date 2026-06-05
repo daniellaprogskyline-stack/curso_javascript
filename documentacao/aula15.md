@@ -1,7 +1,5 @@
 ## Variáveis Compostas - Curso JavaScript #15
 
-## Variáveis Compostas (Arrays) - Curso JavaScript #15
-
 Nesta aula, o professor começa a ensinar sobre variáveis compostas*, também conhecidas como arrays ou vetores. Ele explica que, até esse momento do curso, utilizamos apenas variáveis simples, que conseguem armazenar apenas um valor por vez. Quando um novo valor é atribuído, o valor anterior é substituído. 
 
 Já as variáveis compostas permitem armazenar vários valores dentro de uma mesma estrutura, facilitando a organização dos dados e reduzindo a quantidade de código necessária em determinados problemas. 

@@ -1,5 +1,5 @@
 ## Tratamento de dados - Curso JavaScript #06
-Aula 6
+
 Nessa aula foi explicado que os principais tipos primitivos do JavaScript são number, string e boolean, mas o foco ficou em number e string. O professor relembrou o uso do prompt, que serve para receber dados digitados pelo usuário. Esses dados podem ser armazenados em variáveis usando var, como por exemplo var nome = window.prompt("Qual é seu nome?"). Depois disso, é possível usar o valor armazenado na variável em mensagens com alert.
 
 Também foi mostrado como juntar textos e variáveis usando a concatenação, que é feita com o sinal de + (ao escrever uma mensagem de boas-vindas para o usuário) Foi explicado que o + pode servir tanto para juntar textos quanto para somar números, dependendo do tipo de dado utilizado.

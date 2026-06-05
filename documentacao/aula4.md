@@ -6,8 +6,8 @@ Durante a construção do arquivo, são utilizadas as tags `<style>` para adicio
 
 Segundo ele, o HTML é responsável pela estrutura e pelo conteúdo da página, o CSS cuida da aparência e da estilização dos elementos, enquanto o JavaScript adiciona interatividade e comportamentos dinâmicos. Para facilitar o entendimento, ele divide o desenvolvimento web em três pilares principais:
 
-* **HTML:** conteúdo e estrutura;
-* **CSS:** estilo e apresentação visual;
-* **JavaScript:** interatividade e comportamento.
+ HTML: conteúdo e estrutura;
+ CSS: estilo e apresentação visual;
+ JavaScript: interatividade e comportamento.
 
 O professor enfatiza que a combinação dessas três tecnologias é essencial para a criação de páginas modernas, organizadas e funcionais. A aula tem como objetivo preparar o ambiente para os próximos exercícios, além de apresentar a integração entre HTML, CSS e JavaScript dentro de um mesmo projeto.

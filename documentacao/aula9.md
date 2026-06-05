@@ -5,7 +5,6 @@ Essa aula foi focada em criar uma página HTML simples para manipular usando Jav
 
 Quando um navegador abre um arquivo HTML, ele transforma todas as tags em objetos organizados hierarquicamente. Essa estrutura é o DOM.
 Com ele, o JavaScript consegue:
- 
 Alterar textos
 Alterar cores e estilos
 Esconder ou mostrar elementos
