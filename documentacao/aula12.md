@@ -33,5 +33,4 @@ O professor destaca a importância do comando break, responsável por interrompe
 
 Por fim, ele explica que o switch é mais limitado do que as estruturas if e else, pois trabalha melhor com comparações de valores específicos. No entanto, em situações onde existem várias opções fixas, ele torna o código mais organizado, legível e fácil de manter.
 
-A aula é complementada com exemplos práticos para demonstrar quando utilizar condições aninhadas e quando a estrutura switch pode ser uma alternativa mais adequada.
-
+A aula é continua com exemplos práticos para demonstrar quando utilizar condições aninhadas e ou estrutura switch.
