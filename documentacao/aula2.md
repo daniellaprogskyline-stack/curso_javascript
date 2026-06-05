@@ -1,8 +1,11 @@
 ## JavaScript: como chegamos até aqui? - Curso JavaScript #02
 
-Na aula 2, ele ensinou sobre a linha do tempo da história do Javasript, onde ele abordou acontecimentos históricos como a gguerra fria e a criação da ARPA e em seguida a internet.
-Ele também falou sobre a formação do javascript, explicou que java e javacript apesar de ter algumas coisas parecidas (ele usou if como exemplo), não tem nada haver uma com a outra e que elas só possuem nomes parecidos por estratégia de marketing. Na época, o java estava fazendo muito sucesso. Depois, ele falou um pouco sobre a versão padronizada do javasrpct (ECMA), destacando as melhorias que foram implementadas na linguagem, novas ferramentas que surgiram a partir do javascript (angular, react, vue...) e que para utilizar cada uma, devemos antes conhecer bem o javascript. 
+Na segunda aula, o professor apresentou a história do JavaScript e o contexto tecnológico que possibilitou o surgimento da linguagem. Inicialmente, ele abordou alguns acontecimentos históricos importantes, como a Guerra Fria, a criação da ARPA e o desenvolvimento da internet, explicando como esses eventos contribuíram para a evolução da computação e da comunicação digital.
 
-Ele também fala sobre o jquery, um conjunto de bibliotecas que facilitava a interatividade.
+Em seguida, foi explicado o surgimento do JavaScript e sua relação com a linguagem Java. O professor destacou que, apesar de possuírem algumas semelhanças na sintaxe, como o uso de estruturas condicionais (if), Java e JavaScript são linguagens diferentes e não possuem uma relação direta. Segundo ele, a semelhança entre os nomes ocorreu principalmente por uma estratégia de marketing, já que a linguagem Java estava em grande destaque na época.
 
-Nessa aula não teve nenhum exercício prático.
+A aula também abordou a padronização do JavaScript por meio da ECMAScript (ECMA), responsável por definir as especificações oficiais da linguagem. Foram apresentadas algumas das melhorias e recursos adicionados ao longo das versões, demonstrando como o JavaScript evoluiu com o passar dos anos.
+
+Além disso, o professor citou algumas tecnologias modernas que utilizam JavaScript como base, como Angular, React e Vue.js. Ele ressaltou a importância de dominar os conceitos fundamentais da linguagem antes de aprender qualquer framework ou biblioteca, pois todos dependem do conhecimento prévio de JavaScript.
+
+Esta aula teve foco teórico e não teve exercícios práticos.
